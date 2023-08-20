@@ -1,5 +1,6 @@
 body{
-    margin: 2px;
+    margin: 2px ;
+
     font-family: 'Rubik', sans-serif;
 }
 .nm{
@@ -17,15 +18,16 @@ body{
   padding-left: 2%;
 }
 .did img{
-    width: 80%;
+    width: 100%;
 }
 .back{
     background-image: url(image/header-bg.png);
     background-repeat: no-repeat;
     height: 400px;
 }
-.stu{
+p{
     color: gray;
+   
 }
 .wsit{
     text-decoration: none;
@@ -35,4 +37,56 @@ body{
     color: white;
     background-image: linear-gradient(chartreuse to red );
    font-weight: bold;
+}
+.mid{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+ .hrd{
+    width: 390px;
+    
+    padding: 2%;
+    float: left  ;
+ }
+ .hrd img{
+    width: 80%;
+ }
+ .lol{
+    text-align: center;
+    color: cyan;
+    font-size: 30px;
+ }
+ .mj{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+ }
+#vul{
+    text-align: center;
+ }
+ h6{
+    text-align: center;
+    color: gray;
+ }
+ #lst{
+    text-align: center;
+    co
+ }
+ h4{
+  text-align:center; ;
+ }
+ .ss{
+    background-color: brown;
+    padding: 30px 40px;
+    border-radius: 10px;
+background-position-x: 3%;
+ }
+ footer{
+    text-align: center;
+ }
+.nice{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
 }
