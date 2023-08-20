@@ -1,0 +1,38 @@
+body{
+    margin: 2px;
+    font-family: 'Rubik', sans-serif;
+}
+.nm{
+    font-size: 50px;
+    color: gold;
+}
+.h{
+    font-size: 30px;
+}
+.did{
+    width: 40%;
+  
+    float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.did img{
+    width: 80%;
+}
+.back{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.stu{
+    color: gray;
+}
+.wsit{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(chartreuse to red );
+   font-weight: bold;
+}
